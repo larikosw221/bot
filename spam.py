@@ -10,7 +10,7 @@ api_id = '29061674'
 api_hash = '342873755106be211fdb8ad9ca16d862'
 
 
-grupo_origen_id = -1002138911815 #<----AQUI EL GRUPO  DE ORIGEN 
+grupo_origen_id =  #<----AQUI EL GRUPO  DE ORIGEN 
 
 tu_numero_telefono = '+51994521804'
 
